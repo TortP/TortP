@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TortP
-- 👀 I'm from Ukraine, currently living in Germany.
+- 👀 I'm from Ukraine.
 - 🌱 Previously, I was limitedly associated with the development of websites and online stores exclusively in my personal projects, in Ukraine I was engaged in entrepreneurial activities, namely, there were several areas, some of them from completely different areas:
      1. Provision of insect extermination services.
      2. Development, production and sale of insecticides.
